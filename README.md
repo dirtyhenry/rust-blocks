@@ -1,7 +1,7 @@
 # 🧱 Rust Blocks
 
-> [!INFO]  
-> Next chapter: Programming a Guessing Game.
+> [!NOTE]  
+> Next chapter: [Programming a Guessing Game, Generating a Secret Number][next]
 
 ## About
 
@@ -17,3 +17,6 @@ I wish I had done the same for C when I was a student. 👴
 ## Status
 
 I am just starting my learning journey reading the Rust Book.
+
+[next]:
+  https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#generating-a-secret-number
