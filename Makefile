@@ -9,3 +9,11 @@ build-release:
 
 run:
 	cargo run
+
+docs:
+	cargo doc --open
+
+update:
+	cargo update
+
+.PHONY: docs
